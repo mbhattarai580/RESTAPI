@@ -17,7 +17,7 @@ public class StudentController {
    - creat- new  resource
    - update-existing resource
    - delete-delete existing resource ById of from existing resource
- -  get- get  existing resource findById of from existing resource
+   -  get - findById  from existing resource
 
 
      */
