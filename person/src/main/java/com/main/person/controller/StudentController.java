@@ -13,10 +13,12 @@ import java.util.List;
 public class StudentController {
 
     /*
-    get- getList of from existing resource
-    creat- new  resource
-    update-existing resource
-    delete-delete existing resource ById of from existing resource
+   - get- getAllList of from existing resource
+   - creat- new  resource
+   - update-existing resource
+   - delete-delete existing resource ById of from existing resource
+ -  get- get  existing resource findById of from existing resource
+
 
      */
     @Autowired
