@@ -11,6 +11,14 @@ import java.util.List;
 @RestController
 @RequestMapping
 public class StudentController {
+
+    /*
+    get- getList of from existing resource
+    creat- new  resource
+    update-existing resource
+    delete-delete existing resource ById of from existing resource
+
+     */
     @Autowired
     private StudentService studentService;
 
